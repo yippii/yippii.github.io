@@ -1,1 +1,6 @@
-# litszwaiboris.github.io
+- 👋 Hi, I’m Boris, a hobbiest programming learner
+- 👀 I’m interested in C++, C#, Python, HTML and loves to learn how operating system works
+- 🌱 I’m currently learning C# and HTML
+- 💞️ I’m looking to collaborate on projects for linux
+- 📫 You can contact me by my email (litszwaiboris@yahoo.com) 
+- 🎂 I am currently 12 years old 
